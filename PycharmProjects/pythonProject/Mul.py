@@ -1,4 +1,4 @@
 def mul(a,b):
     return a * b
 
-print(mul(4,9))
+print('The Proudct is',mul(4,9))
